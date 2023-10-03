@@ -15,6 +15,10 @@ pragma solidity 0.8.18;
        to the amount that is supposed to be burned.
 */
 
+/* first address used: 0x71C7656EC7ab88b098defB751B7401B5f6d8976F
+   second address used: 0xC66d07097f4823343bf116463070B3be5e941C4E
+*/
+
 contract MyToken {
 
     // public variables here
