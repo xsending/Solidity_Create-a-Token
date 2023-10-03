@@ -43,7 +43,7 @@ contract MyToken {
 ```
 Proceed to the "Deploy & Run Transactions" tab and click "deploy" to run the code. Provide a Solidity address and a value for the functions found in the program in order to execute it, and see how it affects the values stored in the "balances" variable and the "eth" object. Continue to experiment with different values and see how the program works with various inputs.
 
-##Authors
+## Authors
 Abel Gomez
 
 ## License
